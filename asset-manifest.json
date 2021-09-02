@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/scheudle/static/js/main.5ab8e232.chunk.js",
-    "main.js.map": "/scheudle/static/js/main.5ab8e232.chunk.js.map",
-    "runtime-main.js": "/scheudle/static/js/runtime-main.287b0944.js",
-    "runtime-main.js.map": "/scheudle/static/js/runtime-main.287b0944.js.map",
-    "static/css/2.8106e8fe.chunk.css": "/scheudle/static/css/2.8106e8fe.chunk.css",
-    "static/js/2.2b37a351.chunk.js": "/scheudle/static/js/2.2b37a351.chunk.js",
-    "static/js/2.2b37a351.chunk.js.map": "/scheudle/static/js/2.2b37a351.chunk.js.map",
-    "static/js/3.bb6b5dc5.chunk.js": "/scheudle/static/js/3.bb6b5dc5.chunk.js",
-    "static/js/3.bb6b5dc5.chunk.js.map": "/scheudle/static/js/3.bb6b5dc5.chunk.js.map",
-    "index.html": "/scheudle/index.html",
-    "static/css/2.8106e8fe.chunk.css.map": "/scheudle/static/css/2.8106e8fe.chunk.css.map",
-    "static/js/2.2b37a351.chunk.js.LICENSE.txt": "/scheudle/static/js/2.2b37a351.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/scheudle/static/media/logo.6ce24c58.svg",
-    "static/media/material-icons.css": "/scheudle/static/media/material-icons.a7d6a198.woff"
+    "main.js": "/class-scheudle/static/js/main.5ab8e232.chunk.js",
+    "main.js.map": "/class-scheudle/static/js/main.5ab8e232.chunk.js.map",
+    "runtime-main.js": "/class-scheudle/static/js/runtime-main.782ae586.js",
+    "runtime-main.js.map": "/class-scheudle/static/js/runtime-main.782ae586.js.map",
+    "static/css/2.3998342f.chunk.css": "/class-scheudle/static/css/2.3998342f.chunk.css",
+    "static/js/2.2b37a351.chunk.js": "/class-scheudle/static/js/2.2b37a351.chunk.js",
+    "static/js/2.2b37a351.chunk.js.map": "/class-scheudle/static/js/2.2b37a351.chunk.js.map",
+    "static/js/3.bb6b5dc5.chunk.js": "/class-scheudle/static/js/3.bb6b5dc5.chunk.js",
+    "static/js/3.bb6b5dc5.chunk.js.map": "/class-scheudle/static/js/3.bb6b5dc5.chunk.js.map",
+    "index.html": "/class-scheudle/index.html",
+    "static/css/2.3998342f.chunk.css.map": "/class-scheudle/static/css/2.3998342f.chunk.css.map",
+    "static/js/2.2b37a351.chunk.js.LICENSE.txt": "/class-scheudle/static/js/2.2b37a351.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/class-scheudle/static/media/logo.6ce24c58.svg",
+    "static/media/material-icons.css": "/class-scheudle/static/media/material-icons.a7d6a198.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.287b0944.js",
-    "static/css/2.8106e8fe.chunk.css",
+    "static/js/runtime-main.782ae586.js",
+    "static/css/2.3998342f.chunk.css",
     "static/js/2.2b37a351.chunk.js",
     "static/js/main.5ab8e232.chunk.js"
   ]
