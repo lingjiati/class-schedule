@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/class-schedule/static/css/main.6f80987b.chunk.css",
-    "main.js": "/class-schedule/static/js/main.439abf62.chunk.js",
-    "main.js.map": "/class-schedule/static/js/main.439abf62.chunk.js.map",
-    "runtime-main.js": "/class-schedule/static/js/runtime-main.a071e663.js",
-    "runtime-main.js.map": "/class-schedule/static/js/runtime-main.a071e663.js.map",
-    "static/css/2.b58daa7a.chunk.css": "/class-schedule/static/css/2.b58daa7a.chunk.css",
-    "static/js/2.0d0429cc.chunk.js": "/class-schedule/static/js/2.0d0429cc.chunk.js",
-    "static/js/2.0d0429cc.chunk.js.map": "/class-schedule/static/js/2.0d0429cc.chunk.js.map",
-    "static/js/3.f26d6008.chunk.js": "/class-schedule/static/js/3.f26d6008.chunk.js",
-    "static/js/3.f26d6008.chunk.js.map": "/class-schedule/static/js/3.f26d6008.chunk.js.map",
-    "index.html": "/class-schedule/index.html",
-    "static/css/2.b58daa7a.chunk.css.map": "/class-schedule/static/css/2.b58daa7a.chunk.css.map",
-    "static/css/main.6f80987b.chunk.css.map": "/class-schedule/static/css/main.6f80987b.chunk.css.map",
-    "static/js/2.0d0429cc.chunk.js.LICENSE.txt": "/class-schedule/static/js/2.0d0429cc.chunk.js.LICENSE.txt",
-    "static/media/mdDateTimePicker.css": "/class-schedule/static/media/ic_keyboard_arrow_right_black_disabled_24px.c7c60f68.svg",
-    "static/media/logo.6ce24c58.svg": "/class-schedule/static/media/logo.6ce24c58.svg",
-    "static/media/material-icons.css": "/class-schedule/static/media/material-icons.a7d6a198.woff"
+    "main.css": "/lists/static/css/main.f6197eac.chunk.css",
+    "main.js": "/lists/static/js/main.a5a56419.chunk.js",
+    "main.js.map": "/lists/static/js/main.a5a56419.chunk.js.map",
+    "runtime-main.js": "/lists/static/js/runtime-main.7720c5a5.js",
+    "runtime-main.js.map": "/lists/static/js/runtime-main.7720c5a5.js.map",
+    "static/css/2.b69e1045.chunk.css": "/lists/static/css/2.b69e1045.chunk.css",
+    "static/js/2.0d0429cc.chunk.js": "/lists/static/js/2.0d0429cc.chunk.js",
+    "static/js/2.0d0429cc.chunk.js.map": "/lists/static/js/2.0d0429cc.chunk.js.map",
+    "static/js/3.f26d6008.chunk.js": "/lists/static/js/3.f26d6008.chunk.js",
+    "static/js/3.f26d6008.chunk.js.map": "/lists/static/js/3.f26d6008.chunk.js.map",
+    "index.html": "/lists/index.html",
+    "static/css/2.b69e1045.chunk.css.map": "/lists/static/css/2.b69e1045.chunk.css.map",
+    "static/css/main.f6197eac.chunk.css.map": "/lists/static/css/main.f6197eac.chunk.css.map",
+    "static/js/2.0d0429cc.chunk.js.LICENSE.txt": "/lists/static/js/2.0d0429cc.chunk.js.LICENSE.txt",
+    "static/media/mdDateTimePicker.css": "/lists/static/media/ic_keyboard_arrow_right_black_disabled_24px.c7c60f68.svg",
+    "static/media/logo.6ce24c58.svg": "/lists/static/media/logo.6ce24c58.svg",
+    "static/media/material-icons.css": "/lists/static/media/material-icons.a7d6a198.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.a071e663.js",
-    "static/css/2.b58daa7a.chunk.css",
+    "static/js/runtime-main.7720c5a5.js",
+    "static/css/2.b69e1045.chunk.css",
     "static/js/2.0d0429cc.chunk.js",
-    "static/css/main.6f80987b.chunk.css",
-    "static/js/main.439abf62.chunk.js"
+    "static/css/main.f6197eac.chunk.css",
+    "static/js/main.a5a56419.chunk.js"
   ]
 }
